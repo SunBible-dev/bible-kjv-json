@@ -7,6 +7,7 @@
 
 NEW
 + `red-letter-json` - Contains red-letter text references
++ `contents.json` - Contains all the books and chapters and verses in the bible
 
 
 ---
