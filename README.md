@@ -34,8 +34,24 @@ my ui will probably have a lot of code to help define the id's and get the data 
 
 ### IPFS
 
+```sh
+# ipfs car
+ipfs-car pack bible-kjv-json --output bible-kjv-json.car
+ipfs-car pack red-letters-kjv-json --output red-letters-kjv-json.car
 
+# w3
+w3 space use SUNBIBLE
+w3 up bible-kjv-json
+w3 up red-letters-kjv-json
+```
 
+bible-kjv-json
+<br/>
+bafybeiddtdnmeha6kyusdxpabkjecaxfuiwke57hznv4o4vsrti5l5rqoa
+
+red-letters-kjv-json
+<br/>
+bafybeicccsyr727druhqp2i3rseucgfpfa2qjcompafdwx54n4k37cthj4
 
 ---
 
