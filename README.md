@@ -22,7 +22,6 @@ how i might use it in my ui
 - give every word an id
 - create a red letter json
 
----
 
 ### Who needs an api
 when you have the data?
@@ -31,6 +30,11 @@ this json contains mininmal data, but for my ui i will be giving every word an i
 b1c1v1w1 = genesis 1:1 word 1
 
 my ui will probably have a lot of code to help define the id's and get the data from this json.
+
+
+### IPFS
+
+
 
 
 ---
