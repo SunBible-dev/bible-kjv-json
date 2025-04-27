@@ -52,8 +52,8 @@ https://w3s.link/ipfs/bafybeiddtdnmeha6kyusdxpabkjecaxfuiwke57hznv4o4vsrti5l5rqo
 
 red-letters-kjv-json
 <br/>
-bafybeicccsyr727druhqp2i3rseucgfpfa2qjcompafdwx54n4k37cthj4
-https://w3s.link/ipfs/bafybeicccsyr727druhqp2i3rseucgfpfa2qjcompafdwx54n4k37cthj4
+bafybeia3cis7aa523o2alefwkdnolfzpkrxbpy3eizeylgpgflfwlkc6ge
+ https://w3s.link/ipfs/bafybeia3cis7aa523o2alefwkdnolfzpkrxbpy3eizeylgpgflfwlkc6ge
 
 ---
 
