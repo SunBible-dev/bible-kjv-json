@@ -43,6 +43,10 @@ ipfs-car pack red-letters-kjv-json --output red-letters-kjv-json.car
 w3 space use SUNBIBLE
 w3 up bible-kjv-json
 w3 up red-letters-kjv-json
+
+# near fs
+npx nearfs-upload ./bible-kjv-json.car --account-id sunbible.testnet
+npx nearfs-upload ./bible-kjv-json --account-id sunbible.testnet
 ```
 
 bible-kjv-json
@@ -54,6 +58,12 @@ red-letters-kjv-json
 <br/>
 bafybeia3cis7aa523o2alefwkdnolfzpkrxbpy3eizeylgpgflfwlkc6ge
  https://w3s.link/ipfs/bafybeia3cis7aa523o2alefwkdnolfzpkrxbpy3eizeylgpgflfwlkc6ge
+
+ near ipfs
+- https://ipfs.web4.testnet.page/ipfs/<CID_here>
+- https://<CID_here>.ipfs.web4.testnet.page
+- https://ipfs.web4.near.page/ipfs/<CID_here>
+- https://<CID_here>.ipfs.web4.near.page
 
 ---
 
